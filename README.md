@@ -1,3 +1,7 @@
+# THINGS-GO-HERE 
+
+this repo is basically a social experement. ill accept basically any pull requests. just keep it civil.
+
 you may:
 
 make a pull request
