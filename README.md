@@ -1,4 +1,7 @@
 # THINGS-GO-HERE 
+![Contributors](https://img.shields.io/github/contributors/robotdragonxf-eng/THINGS-GO-HERE)
+![Forks](https://img.shields.io/github/forks/robotdragonxf-eng/THINGS-GO-HERE)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed/robotdragonxf-eng/THINGS-GO-HERE)
 
 this repo is basically a social experement. ill accept basically any pull requests. just keep it civil.
 
